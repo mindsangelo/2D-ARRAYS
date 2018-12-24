@@ -6,4 +6,5 @@ To run the programa you just need to run the .py file using a python3 interprete
 
 or you can go straigh and run it online here: https://repl.it/@AngeloG1/2D-arrays
 
+Finally, for a quick overview there is also a screenshot with the results of the execution of the program at the end.
 
